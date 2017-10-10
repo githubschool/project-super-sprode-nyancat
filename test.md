@@ -1,1 +1,2 @@
-resolved
+ AnnBranch
+ test - edit the line to merge conflict
